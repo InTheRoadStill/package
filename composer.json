@@ -1,0 +1,17 @@
+{
+    "name": "intheroadstill/test",
+    "description": "say hello",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "InTheRadStill",
+            "email": "690033404@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "intheroadstill\\": "src/intheroadstill"
+        }
+    }
+}
