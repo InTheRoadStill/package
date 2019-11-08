@@ -1,5 +1,5 @@
 <?php
-namespace wechat;
+namespace intheroadstill;
 
 Class wechat {
 	public function push(){
